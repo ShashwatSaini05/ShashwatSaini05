@@ -103,7 +103,6 @@
 <summary><b>🎯 Click to Expand</b></summary>
 <br/>
 
-- 🥇 Solved 200+ DSA problems across various platforms
 - 🎓 Consistent academic performer in B.Tech CSE
 - 🌟 Active contributor to open-source repositories
 - 🛠️ Built and deployed 5+ full-stack projects

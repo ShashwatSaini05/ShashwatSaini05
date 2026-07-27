@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ================= ANIMATED HEADER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Shashwat%20Saini&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Shashwat%20Saini&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+there%2C+I'm+Shashwat+Saini+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Open+Source+Lover+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+there%2C+I'm+Shashwat+Saini+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI+and+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Open+Source+Lover+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -273,18 +273,3 @@ If you like my work, consider giving my repositories a ⭐ — it means a lot!
 **⭐ From [Shashwat Saini](https://github.com/USERNAME) — Let's build something amazing together!**
 
 </div>
-
-<!--
-**ShashwatSaini05/ShashwatSaini05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

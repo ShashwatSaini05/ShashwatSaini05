@@ -18,8 +18,7 @@
   <a href=""><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-<!-- ================= PROFILE VIEWS COUNTER (replace USERNAME) ================= -->
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="profile views"/>
+
 
 </div>
 
@@ -117,10 +116,10 @@
 
 <div align="center">
 
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ShashwatSaini05"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shashwat-saini/"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:Shashwatsaini0001@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!-- 📝 NOTE: Replace USERNAME, LINKEDIN, PORTFOLIO, EMAIL placeholders above -->
 

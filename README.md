@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ================= ANIMATED HEADER ================= -->
+<!-- ================= ANIMATED HEADER ================ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Shashwat%20Saini&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- ================= TYPING ANIMATION ================= -->
@@ -94,105 +94,7 @@
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&column=3&margin-w=10&margin-h=10" width="49%"/>
-
-</div>
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-<div align="center">
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="95%"/>
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Requires a GitHub Action (github-contribution-grid-snake) generating this file on your profile repo -->
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-<!-- ================= FEATURED PROJECTS ================= -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔮 Project One
-🛍️ Full-stack web application built with React, Node.js & MongoDB, featuring authentication, REST APIs, and a responsive UI.
-
-`React` `Node.js` `MongoDB` `Express`
-
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%">
-
-### 🧠 Project Two
-🤖 Machine learning powered application using Python, with data visualization and predictive modeling capabilities.
-
-`Python` `ML` `Pandas` `Flask`
-
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 Project Three
-🛡️ Cybersecurity-focused tool for vulnerability scanning and network analysis built with Python.
-
-`Python` `Security` `Networking`
-
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%">
-
-### ⚡ Project Four
-💼 Personal portfolio website showcasing projects, skills, and resume, built with React & Tailwind CSS.
-
-`React` `TailwindCSS` `TypeScript`
-
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
-
-<!-- 📝 NOTE: Replace # with your actual project links above -->
-
-</div>
-
----
 
 <!-- ================= ACHIEVEMENTS ================= -->
 ## 🏆 Achievements

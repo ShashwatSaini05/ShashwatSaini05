@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ================= ANIMATED HEADER ================ -->
+<!-- ================= ANIMATED HEADER =============== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Shashwat%20Saini&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- ================= TYPING ANIMATION ================= -->

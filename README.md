@@ -27,7 +27,7 @@
 <!-- ================= PROFESSIONAL INTRODUCTION ================= -->
 ## 🌌 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/aditya043201/aditya043201/main/rocket.gif" alt="coding gif"/>
+
 
 ```yaml
 👨‍💻 Name:        Shashwat Saini

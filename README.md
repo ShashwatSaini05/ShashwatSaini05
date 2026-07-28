@@ -118,7 +118,7 @@
 
 <a href="https://github.com/ShashwatSaini05"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shashwat-saini/"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://shashwatsaini05.github.io/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:Shashwatsaini0001@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!-- 📝 NOTE: Replace USERNAME, LINKEDIN, PORTFOLIO, EMAIL placeholders above -->
@@ -170,6 +170,6 @@ If you like my work, consider giving my repositories a ⭐ — it means a lot!
 <br/>
  🙏 Thank You for Visiting!
 
-**⭐ From [Shashwat Saini](https://github.com/USERNAME) — Let's build something amazing together!**
+**⭐ From [Shashwat Saini](https://github.com/ShashwatSaini05) — Let's build something amazing together!**
 
 </div>

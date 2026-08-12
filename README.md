@@ -75,17 +75,17 @@
 ### 💻 Languages & Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
 
-<br/><br/>
+<br/>
 
 ### ⚙️ Backend & Languages
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp&theme=dark" />
 
-<br/><br/>
+<br/>
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
 
-<br/><br/>
+<br/>
 
 ### 🧰 Developer Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
